@@ -14,8 +14,8 @@
 <details open><summary><h3>Windows</h3></summary><ul>
 <li><a href="https://github.com/charlesgargasson/acedump">Ace</a> - Dumping Active Directory ACEs </li>
 <li><a href="https://github.com/charlesgargasson/rwinrm">RawWinRM</a> - Using WinRM without Invoke-Command cmdlet </li>
-<li><a href="https://github.com/charlesgargasson/houdipy">HoudiPy</a> - Weaponizing embeddable python to load donut project shellcodes using web staged payloads </li>
-<li><a href="https://github.com/charlesgargasson/gopspy">GoProcessSpy</a> - Golang Reverse Shell </li>
+<li><a href="https://github.com/charlesgargasson/houdipy">HoudiPy</a> - Weaponizing embeddable Python to load Donut project shellcodes via web-staged payloads </li>
+<li><a href="https://github.com/charlesgargasson/gopspy">GoProcessSpy</a> - Monitoring Windows processes using golang </li>
 <li><a href="https://github.com/charlesgargasson/gofspy">GoFileSpy</a> - Monitoring Windows files and pipes using golang  </li>
 <li><a href="https://github.com/charlesgargasson/gopi">GoPI</a> - Process/Thread injection tool, using Golang language  </li>
 </ul>
