@@ -1,11 +1,11 @@
 ## Tools
 
 <details open><summary><h3>General</h3></summary><ul>
-<li><a href="https://github.com/charlesgargasson/goback">GoBack</a>  Golang Reverse Shell </li>
-<li><a href="https://github.com/charlesgargasson/rsm">RSM</a>  ReverseShell Manager </li>
-<li><a href="https://github.com/charlesgargasson/postdl">PostDL</a>  Data exfiltration with http post requests </li>
-<li><a href="https://github.com/charlesgargasson/rdns">rDNS</a>  Reverse DNS scanner </li>
-<li><a href="https://github.com/charlesgargasson/wirecheck">WireCheck</a>  Checking outbound rules </li>
+<li><a href="https://github.com/charlesgargasson/goback">GoBack</a> - Golang Reverse Shell </li>
+<li><a href="https://github.com/charlesgargasson/rsm">RSM</a> - ReverseShell Manager </li>
+<li><a href="https://github.com/charlesgargasson/postdl">PostDL</a> - Data exfiltration with http post requests </li>
+<li><a href="https://github.com/charlesgargasson/rdns">rDNS</a> - Reverse DNS scanner </li>
+<li><a href="https://github.com/charlesgargasson/wirecheck">WireCheck</a> - Checking outbound rules </li>
 <li><a href="https://github.com/charlesgargasson/pcapdump">PCAPDump</a> - pcap2john alternative </li>
 <li><a href="https://github.com/charlesgargasson/hashparse">HashParse</a> - Name-That-Hash wrapper </li>
 </ul>
@@ -21,6 +21,7 @@
 </ul>
 </details>
 
+<!-- -->
 ## POCs
 
 <details open><summary><h3>Concept</h3></summary><ul>
@@ -29,10 +30,10 @@
 </details>
 
 <details open><summary><h3>CVE</h3></summary><ul>
-<li><a href="https://github.com/charlesgargasson/CVE-2024-32002">CVE-2024-32002</a> - CVE-2024-32002 </li>
-<li><a href="https://github.com/charlesgargasson/CVE-2024-20656">CVE-2024-20656</a> - CVE-2024-20656 </li>
-<li><a href="https://github.com/charlesgargasson/CVE-2023-41425">CVE-2023-41425</a> - CVE-2023-41425 </li>
-<li><a href="https://github.com/charlesgargasson/CVE-2023-4220">CVE-2023-4220</a> - CVE-2023-4220 </li>
-<li><a href="https://github.com/charlesgargasson/CVE-2023-1177">CVE-2023-1177</a> - CVE-2023-1177 </li>
+<li><a href="https://github.com/charlesgargasson/CVE-2024-32002">CVE-2024-32002</a> - GIT RCE </li>
+<li><a href="https://github.com/charlesgargasson/CVE-2024-20656">CVE-2024-20656</a> - LPE VSStandardCollectorService150 service </li>
+<li><a href="https://github.com/charlesgargasson/CVE-2023-41425">CVE-2023-41425</a> - Wonder CMS RCE (XSS) </li>
+<li><a href="https://github.com/charlesgargasson/CVE-2023-4220">CVE-2023-4220</a> - RCE Chamilo 1.11.24 </li>
+<li><a href="https://github.com/charlesgargasson/CVE-2023-1177">CVE-2023-1177</a> - MLFlow Path Traversal </li>
 </ul>
 </details>
