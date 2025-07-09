@@ -1,4 +1,4 @@
-## Tools
+## ⛏️ Tools
 
 <details open><summary><h3>General</h3></summary><ul>
 <li><a href="https://github.com/charlesgargasson/goback">GoBack</a> - Golang Reverse Shell </li>
@@ -23,7 +23,7 @@
 
 </br>
 
-## POCs
+## 🧬 POCs
 
 <details open><summary><h3>Concept</h3></summary><ul>
 <li><a href="https://github.com/charlesgargasson/SLN2RCE">SLN2RCE</a> - Weaponizing VS projects into RCE using SUO or prebuild event </li>
