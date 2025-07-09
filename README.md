@@ -21,7 +21,7 @@
 </ul>
 </details>
 
-<!-- -->
+</br>
 ## POCs
 
 <details open><summary><h3>Concept</h3></summary><ul>
